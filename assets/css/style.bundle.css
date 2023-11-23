@@ -50836,7 +50836,7 @@ body {
     left: 0;
     right: 0;
     top: 0;
-    height: 70px;
+    height:   100px;
     z-index: 100;
     background-color: var(--bs-app-header-primary-sticky-bg-color);
     box-shadow: var(--bs-app-header-primary-sticky-box-shadow);
